@@ -4,11 +4,11 @@
   <header id="header" class="fixed-top header-inner-pages">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="<?= base_url('Frontend'); ?>">Daniweb</a></h1>
+      <h1 class="logo"><a href="<?= base_url(); ?>">Daniweb</a></h1>
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto " href="#hero">Home</a></li>
+          <li><a class="nav-link scrollto " href="<?= base_url(); ?>">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
           <li><a class="nav-link scrollto" href="#services">Services</a></li>
           <li><a class="nav-link scrollto active " href="#portfolio">Portfolio</a></li>
@@ -90,7 +90,7 @@
                 <li><strong>Category</strong>: Web design</li>
                 <li><strong>Client</strong>: ASU Company</li>
                 <li><strong>Project date</strong>: 01 March, 2020</li>
-                <li><strong>Project URL</strong>: <a href="#">www.example.com</a></li>
+                <li><strong>Project URL</strong>: <a href="<?= base_url(); ?>">www.example.com</a></li>
               </ul>
             </div>
             <div class="portfolio-description">

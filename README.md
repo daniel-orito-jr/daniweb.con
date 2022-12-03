@@ -1,6 +1,6 @@
 # daniweb.con
 
-Daniweb.con is a daniweb project collection of front-end website with consulting concept and design. Created in Bootstrap, HTML, Javascript, CSS and Jquery. Its a frontend design perfect for consulting companies with user-enhanced and user-interfaced feature capabilities.
+Daniweb.con is a daniweb front-end website with consulting concept and design. Created in Bootstrap, HTML, Javascript, CSS and Jquery. Its a frontend design perfect for consulting companies with user-enhanced and user-interfaced feature capabilities.
 
 ---
 
